@@ -1,0 +1,9 @@
+title: UX Guidelines
+author: IDTdesign
+email: pavel.radzkov@idt.net
+description: > # this means to ignore newlines until next line
+  UX Guidelines
+github_username: IDTdesign
+google_tag_manager: GTM-5QDFXXC # default IDTdesign GMT id
+github_link: https://github.com/IDTdesign/UX-guidelines
+remote_theme: IDTdesign/template
